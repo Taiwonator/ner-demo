@@ -6,6 +6,9 @@
 1. Install spaCy here - https://spacy.io/usage
 2. Run `python index.py` or `python3 index.py`
 
+## Different Approaches
+Test Article - https://sustainabilitymag.com/articles/why-walmart-nestle-mars-more-have-left-us-plastics-pact
+
 ### 1. spaCy
 **Output:** 
 - The US Plastic Pact `ORG`
