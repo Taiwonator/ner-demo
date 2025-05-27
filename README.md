@@ -15,7 +15,7 @@ the US Plastics Pact ORG
 2030 CARDINAL
 The US Plastics Pact ORG
 
-### 1. Gemini
+### 2. Gemini
 **Example Prompt:** 
 It is your role to extract named entities from articles. So for example
 
