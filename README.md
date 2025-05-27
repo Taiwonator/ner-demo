@@ -17,6 +17,7 @@ The US Plastics Pact ORG
 
 ### 2. Gemini
 **Example Prompt:** 
+```
 It is your role to extract named entities from articles. So for example
 
 "PepsiCo has announced a major update to its PepsiCo Positive (pep+) strategy, refining key climate, packaging, agriculture and water goals to be “more resilient”.
@@ -28,6 +29,7 @@ The huge update is set to further align with core business priorities and accele
 You would extract PepsiCo and Ramon Laguarta
 
 I will send an article and you give me the extracted entities
+```
 
 **Example Output:** 
 Walmart, Nestlé, Mars, Mondelēz, L'Oréal USA, PepsiCo, James Darley, Ellen MacArthur Foundation, Robert Little, Google, Heidi Sanborn, National Stewardship Action Council, Aldi, Kraft Heinz, Eric Downing.
