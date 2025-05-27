@@ -104,7 +104,7 @@ Walmart, Nestlé, Mars, Mondelēz, L'Oréal USA, PepsiCo, James Darley, Ellen Ma
 #### 2.2 Asking Gemini to copy spaCy (with no prior examples)
 **Prompt:** 
 ```
-Okay with that previous article, pretend your SPACY
+Okay with that previous article, pretend you're SPACY
 ```
 
 **Output:** 
