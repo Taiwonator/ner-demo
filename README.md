@@ -171,6 +171,10 @@ Okay with that previous article, pretend you're SPACY
 - Global Plastics Treaty `ORG`
 - Robert `PERSON`
 
+## Conclusion
+When doing further testing (on [this article](https://supplychaindigital.com/sustainability/ecovadis-firms-overrun-by-new-supply-chain-esg-laws)), both approaches seem to have plenty false positives. For example `ESG ORG`, `GHG ORG` or even `Carbon PERSON`. This however is a non-issue by my estimation as simple validation steps can be taken afterward to confirm these. What stands out with the simplicity of modern AI workflows however is how simple these validation steps have now become - especially thanks to reasoning models.
+
+<img width="1282" alt="Screenshot 2025-05-27 at 09 50 00" src="https://github.com/user-attachments/assets/d0200287-7a48-409d-bc8e-e475babf404a" />
 
 
 
