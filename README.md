@@ -1,3 +1,8 @@
+# Named Entity Recognition (NER)
+Learn about it [here](https://en.wikipedia.org/wiki/Named-entity_recognition)
+
+This demo was inspired by a suggested feature from an executive stakeholder to introduce 'smarter' entity recognition which can have specific system side-effects.
+
 ## Prerequisites
 - `Python >= v3`
 - `pip >= v25.1.1`
