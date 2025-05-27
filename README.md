@@ -8,12 +8,13 @@
 
 ### 1. spaCy
 **Example Output:** 
-The US Plastic Pact ORG
-Nestlé, Mars WORK_OF_ART
-Mondelēz GPE
-the US Plastics Pact ORG
-2030 CARDINAL
-The US Plastics Pact ORG
+- The US Plastic Pact `ORG`
+- Nestlé, Mars `WORK_OF_ART`
+- Mondelēz `GPE`
+- the US Plastics Pact `ORG`
+- 2030 `CARDINAL`
+- The US Plastics Pact `ORG`
+- ...
 
 ### 2. Gemini
 **Example Prompt:** 
